@@ -6,7 +6,7 @@ It was created mostly for personal use as i've been repeating myself in issues i
 ## Contributing
 
 - Make a pull request if you happen to formulate the requests in a better way with more resources or for the general Readme look
-- Donations: https://www.paypal.me/Slovantes
+- Donations: [Paypal](https://www.paypal.me/Slovantes)
 
 ### Website request:
 
