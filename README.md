@@ -1,5 +1,5 @@
 # IssueTemplates
-This repo serves as a copy-paste solution for that identical issues projects are having. 
+This repo serves as a copy-paste solution for the identical issues that the different projects are having. 
 
 It was created mostly for personal use as i've been repeating myself in issues in different projects, so here i could actually set up answers better once and copy-paste with minor editing depending on a project.
 
