@@ -28,9 +28,11 @@ Interesting article: [Link](https://www.toptal.com/github/unlimited-scale-web-ho
 ### ⚠️ Donation platforms:
 
 **Is your feature request related to a problem? Please describe.**
+
 Currently there's no donating information, if users want to show appreciation that way and help fund your time.
 
 **Describe the solution you'd like**
+
 Add a Donations section to the readme and some buttons below as where to donate.
 
 **Describe alternatives you've considered**
