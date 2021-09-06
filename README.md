@@ -9,7 +9,7 @@ It was created mostly for personal use as i've been repeating myself in issues i
 - Make a pull request if you happen to formulate the requests in a better way with more resources or for the general Readme look
 - Donations: [Paypal](https://www.paypal.me/Slovantes)
 
-### Landing page / Website request:
+### ⚠️ Landing page / Website request:
 
 It would be useful to have this project's landing site / website, so any future news articles can link to it and the website would make a better visual representation of the project that could attract more users, developers and contributors.
 
@@ -25,7 +25,7 @@ Interesting article: [Link](https://www.toptal.com/github/unlimited-scale-web-ho
 > Consider [Jekyll](https://jekyllrb.com/). You give it [Liquid](https://jekyllrb.com/docs/liquid/) templates and Markdown content
 > Free Jekyll templates: https://jekyllthemes.io/free
 
-### Donation platforms:
+### ⚠️ Donation platforms:
 
 **Is your feature request related to a problem? Please describe.**
 Currently there's no donating information, if users want to show appreciation that way and help fund your time.
