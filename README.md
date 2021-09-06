@@ -10,7 +10,7 @@ It was created mostly for personal use as i've been repeating myself in issues i
 
 ### Website request:
 
-It would be nice to have this project's landing site / website so any articles in the future can link to it and the website would make a better visual representation of the project that could attract more users, developers and contributors.
+It would be useful to have this project's landing site / website, so any future news articles can link to it and the website would make a better visual representation of the project that could attract more users, developers and contributors.
 
 A simple option is via [Github Pages](https://pages.github.com/), that a lot of github open source projects are using, which Github hosts for free for any repo on their website.
 
