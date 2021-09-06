@@ -24,7 +24,7 @@ Interesting article: [Link](https://www.toptal.com/github/unlimited-scale-web-ho
 > Consider [Jekyll](https://jekyllrb.com/). You give it [Liquid](https://jekyllrb.com/docs/liquid/) templates and Markdown content
 > Free Jekyll templates: https://jekyllthemes.io/free
 
-### Donations:
+### Donation platforms:
 
 **Is your feature request related to a problem? Please describe.**
 Currently there's no donating information, if users want to show appreciation that way and help fund your time.
