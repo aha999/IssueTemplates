@@ -8,7 +8,7 @@ It was created mostly for personal use as i've been repeating myself in issues i
 - Make a pull request if you happen to formulate the requests in a better way with more resources or for the general Readme look
 - Donations: [Paypal](https://www.paypal.me/Slovantes)
 
-### Website request:
+### Landing page / Website request:
 
 It would be useful to have this project's landing site / website, so any future news articles can link to it and the website would make a better visual representation of the project that could attract more users, developers and contributors.
 
