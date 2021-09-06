@@ -36,6 +36,7 @@ Currently there's no donating information, if users want to show appreciation th
 Add a Donations section to the readme and some buttons below as where to donate.
 
 **Describe alternatives you've considered**
+
 I saw a lot of open-source projects use LiberaPay or other in the list: 
 - [LiberaPay](https://liberapay.com/) -- [example](https://liberapay.com/k9mail/donate)
 - [PayPal](https://www.paypal.com/)
