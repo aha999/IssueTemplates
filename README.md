@@ -69,3 +69,15 @@ Add changelog text when you open the fdroid app repo
 **Additional context**
 
 This would be a great option to quickly see the new changes and many apps use this method.
+
+### ⚠️ Translation platform
+
+It would be great if there was a convenient way for general public to contribute translations.
+
+I can recommend [Weblate](https://weblate.org/), as the platform itself is popular, open source (compared to others), can be self hostable, and for open source projects like yours, they host translations for free. Weblate automatically merges translations and if you want you can have a widget shown in github readme, that displays how much percentage each applied language is translated to.  It's much more simple for people to translate this way and it's free + less work needed for you.
+
+- [set up your libre project](https://hosted.weblate.org/hosting/) 
+
+screenshot:
+
+![screenshot](https://user-images.githubusercontent.com/50620416/119900111-57ffdf00-bf44-11eb-95e6-892f025a7627.png)
