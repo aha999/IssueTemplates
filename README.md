@@ -49,3 +49,22 @@ I saw a lot of open-source projects use LiberaPay or other in the list:
 Displaying a sponsor button in your repository: [link](https://help.github.com/en/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository) 
 A handy list of [donate buttons](https://github.com/aha999/DonateButtons)
 
+### ⚠️ Changelog info text in F-droid
+
+**Is your feature request related to a problem?**
+
+Currently, there is no visible window with the latest changes when you open your app's page in F-Droid.
+
+**Describe the solution you'd like**
+
+Add changelog text when you open the fdroid app repo
+
+**Some tips:**
+
+> F-Droid looks for metadata in the app’s source repo. The supported formats for this metadata are borrowed from popular projects that automate uploading this metadata to Google Play Store.
+
+>The one in your example corresponds to Fastlane Supply and is documented [here](https://docs.fastlane.tools/actions/supply/#changelogs-whats-new). All formats supported by F-Droid are listed [here](https://f-droid.org/en/docs/All_About_Descriptions_Graphics_and_Screenshots/#in-the-applications-source-repository)
+
+**Additional context**
+
+This would be a great option to quickly see the new changes and many apps use this method.
