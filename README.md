@@ -74,7 +74,7 @@ This would be a great option to quickly see the new changes and many apps use th
 
 It would be great if there was a convenient way for general public to contribute translations.
 
-I can recommend [Weblate](https://weblate.org/), as it's popular, the platform itself is open source (compared to others), can be self hostable, and for open source projects like yours, they host translations for free. Weblate automatically merges translations and if you want you can have a widget shown in github readme, that displays how much percentage each applied language is translated to in real-time.  It's much more simple for people to translate this way and it's free + less work needed for you.
+I can recommend [Weblate](https://weblate.org/), as it's popular, the platform itself is open source (compared to others), can be self hostable, and for open source projects like yours, they host translations for free. Weblate automatically merges translations and if you want you can have different widgets shown in github readme, that displays how much percentage each applied language is translated to in real-time.  It's much more simple for people to translate this way and it's free + less work needed for you.
 
 - [set up your libre project](https://hosted.weblate.org/hosting/) 
 
