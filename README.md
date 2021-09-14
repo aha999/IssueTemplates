@@ -81,3 +81,9 @@ I can recommend [Weblate](https://weblate.org/), as it's popular, the platform i
 screenshot:
 
 ![screenshot](https://user-images.githubusercontent.com/50620416/119900111-57ffdf00-bf44-11eb-95e6-892f025a7627.png)
+
+### ⚠️ Option to force language change
+
+Although the app is translated in one's language, many users may prefer to use English language for the app's interface. The reasons may vary, from better terminology understanding in English language, to just a preference.
+
+Please add an option in the settings to change a language in the app from a default (local) one to a selected one, like English or other.
