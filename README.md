@@ -14,7 +14,7 @@ It was created mostly for personal use as i've been repeating myself in issues i
 
 It would be useful to have this project's landing site / website, so any future news articles can link to it and the website would make a better visual representation of the project that could attract more users, developers and contributors.
 
-A simple option is via [Github Pages](https://pages.github.com/), that a lot of github open source projects are using, which Github hosts for free for any repo on their website.
+A simple and free option is via [Github Pages](https://pages.github.com/), that a lot of github open source projects are using, which Github hosts for any repo on their website.
 
 > Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
 > No databases are needed to be set up and no servers to configure
