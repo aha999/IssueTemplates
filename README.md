@@ -34,16 +34,17 @@ Currently there's no donating information, if users want to show appreciation th
 
 **Describe the solution you'd like**
 
-Add a Donations section to the readme and some buttons below as where to donate.
+Add a Donations section to the readme and some buttons below as where to donate to your project.
 
 **Describe alternatives you've considered**
 
-I saw a lot of open-source projects use LiberaPay or other in the list: 
-- [LiberaPay](https://liberapay.com/) -- [example](https://liberapay.com/k9mail/donate)
-- [PayPal](https://www.paypal.com/)
-- [Github Sponsors](https://github.com/sponsors)
-- [Ko-fi](https://ko-fi.com/)
+Here are some platforms that can be used for donations:
 - [OpenCollective](https://opencollective.com/) -- [example](https://opencollective.com/darkreader#sponsor)
+- [LiberaPay](https://liberapay.com/) -- [example](https://liberapay.com/k9mail/donate)
+- [Github Sponsors](https://github.com/sponsors)
+- [PayPal](https://www.paypal.com/)
+- [Ko-fi](https://ko-fi.com/)
+- [Patreon](https://www.patreon.com/)
 - [Flattr](https://flattr.com/)
 - [BountySource](https://www.bountysource.com)
 
