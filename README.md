@@ -59,7 +59,7 @@ Currently, there is no visible window with the latest changes when you open your
 
 **Describe the solution you'd like**
 
-Add changelog text when you open the fdroid app repo
+Add changelog text into a window above the description when you open the fdroid app repo.
 
 **Some tips:**
 
