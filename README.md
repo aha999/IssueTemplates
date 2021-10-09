@@ -88,3 +88,11 @@ screenshot:
 Although the app is translated in one's language, many users may prefer to use English language for the app's interface. The reasons may vary, from better terminology understanding in English language, to just a preference.
 
 Please add an option in the settings to change a language in the app from a default (local) one to a selected one, like English or other.
+
+### ⚠️ Issue templates
+
+Add templates on github for issues, like when users are reporting a Feature request, a Bug report etc.
+
+Issue templates would enable you to get more detailed information in a better format anyone can follow.
+
+Here is a general idea and some instructions on how to make it functional: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates
