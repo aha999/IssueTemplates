@@ -95,4 +95,4 @@ Add templates on github for issues, like when users are reporting a Feature requ
 
 Issue templates would enable you to get more detailed information in a better format anyone can follow.
 
-Here is a general idea and some instructions on how to make it functional: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates
+Here is a general idea and some instructions on how to make it functional: [GitHub docs  - issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
