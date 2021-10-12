@@ -1,7 +1,7 @@
 # ✨ IssueTemplates
 This repo serves as a copy-paste solution for the identical issues that the different projects are having. 
 
-It was created mostly for personal use as i've been repeating myself in issues in different projects, so here i could actually set up answers better once and copy-paste with minor editing depending on a project. It's also better if the issues are well documented with the resources to help with implementing the said solution, therefore copy-paste on identical issues.
+It was created mostly for personal use as i've been repeating myself in issues in different projects, so here i could actually set up answers better once and copy-paste with minor editing depending on a project. It's also better if the issues are well documented with the resources to help with implementing the said solution, therefore copy-paste on identical issues. So if anyone has anything to add or improve, please [open an Issue](https://github.com/aha999/IssueTemplates/issues).
 - share: `https://github.com/aha999/IssueTemplates/`
 
 ## Contributing
