@@ -71,6 +71,22 @@ Add changelog text into a window above the description when you open the fdroid 
 
 This would be a great option to quickly see the new changes and many apps use this method.
 
+Example of the changelog structure:
+
+```
+└── fastlane
+    └── metadata
+        └── android
+            ├── en-US
+            │   └── changelogs
+            │       ├── default.txt
+            │       ├── 100000.txt
+            │       └── 100100.txt
+            └── fr-FR
+                └── changelogs
+                    ├── default.txt
+                    └── 100100.txt
+```
 ### ⚠️ Translation platform
 
 It would be great if there was a convenient way for general public to contribute translations.
