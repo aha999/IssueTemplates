@@ -51,6 +51,17 @@ Here are some platforms that can be used for donations:
 Displaying a sponsor button in your repository: [link](https://help.github.com/en/github/administering-a-repository/displaying-a-sponsor-button-in-your-repository) 
 A handy list of [donate buttons](https://github.com/aha999/DonateButtons)
 
+### ⚠️ Publish to F-Droid
+
+F-Droid is an app-store that hosts free and open source android apps for download (like google play but only for FOSS), which builds apps directly from source code, so apps are matching source code and are transparent. If you published your app to F-Droid. i think that the number of users will increase as it's very convenient, findable and easy to update. Most of the FOSS android apps are on F-Droid as far as i know and it's great!
+
+- F-Droid documentation for developers: [instructions](https://f-droid.org/en/docs/#developers)
+
+- If you're fine with publishing it on F-Droid, you could [create a Request for Packaging](https://gitlab.com/fdroid/rfp/-/issues/new?issue%5Bmilestone_id%5D=).
+
+- Requests for packaging: [RFP](https://gitlab.com/fdroid/rfp/-/issues)
+
+
 ### ⚠️ Changelog info text in F-droid
 
 **Is your feature request related to a problem?**
