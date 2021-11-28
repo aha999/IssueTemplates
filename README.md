@@ -123,3 +123,21 @@ Add templates on github for issues, like when users are reporting a Feature requ
 Issue templates would enable you to get more detailed information in a better format anyone can follow.
 
 Here is a general idea and some instructions on how to make it functional: [GitHub docs  - issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
+
+### ⚠️ Beta versions on F-Droid
+
+**Is your feature request related to a problem? Please describe.** Currently, there is no Beta versions on F-Droid to make it easy to update to experimental versions to report the functionality, any new bugs etc.
+ 
+**Describe the solution you'd like** Upload alpha/beta releases, apks to Github/Fdroid. Other app makers are also doing so, and it's really nice because you can get all app versions from one place where you get them anyways.
+
+* [Example](https://github.com/k9mail/k-9/releases) of K-9 mail app on Github (pre-release)
+
+* [Example](https://f-droid.org/en/packages/com.fsck.k9/) of K-9 mail app on Fdroid, where the recommended version is the stable one which by deafult installs when installing an app, but pre-release can be installed manually.
+
+It looks like having F-Droid automatically pick up the latest version will always update the recommended version (`CurrentVersion`), too. See https://f-droid.org/docs/Build_Metadata_Reference/#UpdateCheckMode
+
+For example, K-9 Mail's (beta) releases are manually added to F-Droid by creating a merge request to its [fdroiddata](https://gitlab.com/fdroid/fdroiddata) repository. Example: https://gitlab.com/fdroid/fdroiddata/-/merge_requests/8905
+
+They're doing this manually. But I guess there's no reason why this can't be automated.
+
+However, a nicer solution would probably be to add something like an `UnstableUpdateCheckMode` to F-Droid. That could add a release but not update `CurrentVersion`, making it an "unstable" version. It would enable projects to e.g. use a different tag scheme for test versions.
