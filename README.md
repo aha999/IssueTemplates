@@ -126,9 +126,13 @@ Here is a general idea and some instructions on how to make it functional: [GitH
 
 ### ⚠️ Beta versions on F-Droid
 
-**Is your feature request related to a problem? Please describe.** Currently, there is no Beta versions on F-Droid to make it easy to update to experimental versions to report the functionality, any new bugs etc.
+**Is your feature request related to a problem? Please describe.** 
+
+Currently, there is no Beta versions on F-Droid to make it easy to update to experimental versions to report the functionality, any new bugs etc.
  
-**Describe the solution you'd like** Upload alpha/beta releases, apks to Github/Fdroid. Other app makers are also doing so, and it's really nice because you can get all app versions from one place where you get them anyways.
+**Describe the solution you'd like** 
+
+Upload alpha/beta releases, apks to Github/Fdroid. Other app makers are also doing so, and it's really nice because you can get all app versions from one place where you get them anyways.
 
 * [Example](https://github.com/k9mail/k-9/releases) of K-9 mail app on Github (pre-release)
 
