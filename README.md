@@ -154,4 +154,4 @@ Currently there is only a limited amount of linux support in your project, which
 
 Please introduce a modern [Flatpak](https://flatpak.org/) package and publish it on [FlatHub](https://flathub.org/).
 
-Having this project in a Flatpak package, would enable your project to work on most distributions.
+Having this project in a Flatpak package, would enable your project to work on most distributions. Here are some of the [reasons](https://docs.flatpak.org/en/latest/introduction.html#reasons-to-use-flatpak) to use Flatpak.
