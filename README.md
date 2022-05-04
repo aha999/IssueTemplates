@@ -145,3 +145,13 @@ For example, K-9 Mail's (beta) releases are manually added to F-Droid by creatin
 They're doing this manually. But I guess there's no reason why this can't be automated.
 
 However, a nicer solution would probably be to add something like an `UnstableUpdateCheckMode` to F-Droid. That could add a release but not update `CurrentVersion`, making it an "unstable" version. It would enable projects to e.g. use a different tag scheme for test versions.
+
+# Linux
+
+### Flatpak support
+
+Currently there is only a limited amount of linux support in your project, which may cause issues on some popular distributions.
+
+Please introduce a modern [Flatpak](https://flatpak.org/) package and publish it on [FlatHub](https://flathub.org/).
+
+Having this project in a Flatpak package, would enable your project to work on most distributions.
