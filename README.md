@@ -118,11 +118,20 @@ Please add an option in the settings to change a language in the app from a defa
 
 ### ⚠️ Issue templates
 
-Add templates on github for issues, like when users are reporting a Feature request, a Bug report etc.
+**Is your feature request related to a problem? Please describe.**
+Currently, there is no issue templates in this repository, like the one this issue is using with titles for context, which means that issues are not as organized or convenient to understand.
 
-Issue templates would enable you to get more detailed information in a better format anyone can follow.
+**Describe the solution you'd like**
+Implement Issue templates, like this one for example, so users can insert info in pre-determined questions, so they can make better issues. 
 
-Here is a general idea and some instructions on how to make it functional: [GitHub docs  - issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
+Here is a general idea and documentation on how to implement it: [GitHub docs  - issue templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
+
+**Describe alternatives you've considered**
+This can be done ether as a text-based template, or a sort of a form. I think that the text based version offers more freedom when creating an issue.
+
+**Additional context**
+Screenshot example, this is a selection window, that displays after selecting "New Issue" on Github:
+![image](https://user-images.githubusercontent.com/50620416/170260260-295bcb14-2dc5-4540-99f7-9054f18cb5c3.png)
 
 ### ⚠️ Beta versions on F-Droid
 
