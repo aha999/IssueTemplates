@@ -155,6 +155,14 @@ They're doing this manually. But I guess there's no reason why this can't be aut
 
 However, a nicer solution would probably be to add something like an `UnstableUpdateCheckMode` to F-Droid. That could add a release but not update `CurrentVersion`, making it an "unstable" version. It would enable projects to e.g. use a different tag scheme for test versions.
 
+### ⚠️ Readme improvements
+
+I think that the Readme could be improved in several ways to be a more informative page.
+
+Example of a github readme i made for another project, which is not perfect, but i believe it has some of the more important points covered, regarding the project and the community: https://github.com/fr3ts0n/AndrOBD
+
+- Readme template from a topic-specific repo: https://github.com/othneildrew/Best-README-Template
+
 # Linux
 
 ### Flatpak support
