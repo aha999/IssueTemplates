@@ -179,3 +179,4 @@ Currently there is no convenient way for visitors of this repository, to see the
 
 The Readme could be made better looking by adding at least one screenshot, so it's visible how your project looks like.
 
+Example of screenshots included in the Readme: [Link](https://github.com/fr3ts0n/AndrOBD#readme)
