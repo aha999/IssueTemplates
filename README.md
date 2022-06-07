@@ -172,3 +172,10 @@ Currently there is only a limited amount of linux support in your project, which
 Please introduce a modern [Flatpak](https://flatpak.org/) package and publish it on [FlatHub](https://flathub.org/).
 
 Having this project in a Flatpak package, would enable your project to work on most distributions. Here are some of the [reasons](https://docs.flatpak.org/en/latest/introduction.html#reasons-to-use-flatpak) to use Flatpak.
+
+### ⚠️ Screenshots in Readme
+
+Currently there is no convenient way for visitors of this repository, to see the screenshots of your project in the front page Readme file.
+
+The Readme could be made better looking by adding at least one screenshot, so it's visible how your project looks like.
+
